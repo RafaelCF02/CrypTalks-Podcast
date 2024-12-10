@@ -1,0 +1,15 @@
+PROMPT PARA O NOME DO PODCAST:
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em segurança Cibernética e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de Segurança Cibernética e que tenha algum trocadilho hacker no nome
+
+O podcast vai falar sobre dicas e novidades sobre o mundo da Segurança e o que esta acontecendo no mundo atual.
+
+{REGRAS}
+- O nome deve ser enxuto, um nome e um subtítulo 
+- O nome tenha algum trocadilho com o mundo hacker com nome de franquias como MR.Robots e malwares conhecidos como WannaCry
+- O nome deve conter alguma palavra forte que remeta a Segurança Cibernética 
+
+{REGRAS NEGATIVAS}
+- Não quero que utilize nenhuma palavra de uma franquia já criada
+
+

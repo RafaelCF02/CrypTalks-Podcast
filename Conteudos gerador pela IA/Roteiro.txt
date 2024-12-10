@@ -1,0 +1,14 @@
+"CrypTalks"
+"Decifrando o futuro da Segurança Digital."
+
+[INTRODUÇÃO]
+🎙️ Fala, pessoal! Sejam muito bem-vindos ao CrypTalks, o podcast que descomplica o universo da segurança digital e te deixa a um passo à frente dos ciberataques. Eu sou o Rafael, e hoje vamos mergulhar em histórias e técnicas que vão fazer você enxergar o mundo digital com outros olhos. Então pega a pipoca virtual porque esse episódio tá simplesmente insano!
+
+[CURIOSIDADE 1]
+💡 Você sabia que o primeiro vírus de computador foi criado como uma brincadeira entre amigos? Pois é! Em 1986, dois irmãos paquistaneses criaram o Brain, um vírus que infectava disquetes. Mas calma, a intenção deles não era causar o caos; era apenas rastrear quem copiava seus programas ilegalmente. A questão é que, de lá pra cá, essa ‘brincadeira’ evoluiu e abriu as portas para os vírus modernos, como o WannaCry, que causam prejuízos milionários no mundo todo.
+
+[CURIOSIDADE 2]
+🛠️ Agora vamos falar de algo que hackers adoram usar: o famoso Keylogger. Basicamente, é uma ferramenta que registra tudo o que você digita no teclado, desde senhas até mensagens secretas. Parece coisa de filme, mas é real e usado em ataques cibernéticos. A boa notícia é que dá pra se proteger! Manter o sistema operacional atualizado e usar antivírus confiáveis já é meio caminho andado. E claro, cuidado com links suspeitos! Hackers adoram pescar desavisados.
+
+[FINALIZAÇÃO]
+🎙️ E por hoje é isso, pessoal! Espero que você tenha curtido essas curiosidades do universo cibernético e aprendido um pouco mais sobre como se proteger no mundo digital. Se gostou, não esquece de compartilhar com seus amigos pra fortalecer o time dos bem protegidos! Eu sou Rafael, e esse foi o CrypTalks dessa semana. Até a próxima e, claro, fique seguro!

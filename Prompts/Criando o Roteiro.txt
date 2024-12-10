@@ -1,0 +1,24 @@
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em Segurança Cibernética cujo o nome é "CrypTalks" Decifrando o futuro da Segurança Digital, e tem foco em Segurança, com o público alvo pessoas com interesse na área
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- No bloco [INTRODUÇÃO) substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- No bloco [CURIOSIDADE 1] substitua por uma curiosidade do mundo cibernético
+- No bloco [CURIOSIDADE 2) sobre uma ferramenta e técnicas usadas por hacker
+- No bloco [FINALIZAÇÃO) substitua por uma despedida cool com o final 'Eu sou Rafael e esse foi o CrypTalk dessa semana'
+use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Rafael
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS)
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+
+
