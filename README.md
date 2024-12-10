@@ -9,7 +9,7 @@ Este repositório foi criado como parte de uma atividade e contém um único epi
 Ouça o episódio completo aqui:  
 
 
-Para ouvir o episódio completo, basta clicar no arquivo [Podcast_editado.mp3](./Podcast_editado.mp3) e, em seguida, clicar em **"View raw"** para baixá-lo ou reproduzi-lo no seu dispositivo.
+Para ouvir o episódio completo, basta clicar no arquivo [Podcast_editado.mp3](./Podcast_editado.MP3) e, em seguida, clicar em **"View raw"** para baixá-lo ou reproduzi-lo no seu dispositivo.
 
 ---
 
